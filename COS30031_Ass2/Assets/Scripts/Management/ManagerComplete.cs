@@ -89,7 +89,7 @@ public class ManagerComplete : MonoBehaviour
         if (target_health != -1)
         {
             int health = stats.GetStat("Mental Health");
-            if (health > target_health)
+            if (health < target_health)
             {
                 complete = false;
             }
