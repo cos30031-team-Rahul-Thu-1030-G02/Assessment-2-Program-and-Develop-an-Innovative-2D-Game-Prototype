@@ -1,6 +1,8 @@
 # Sustainable Affairs
 
 **Playable Build:** https://bpgg713.itch.io/sustainable-affairs
+**Showcase and Evidence Video:** https://www.youtube.com/watch?v=BGQivj_VUks
+**Github Repository:** https://github.com/cos30031-team-Rahul-Thu-1030-G02/Assessment-2-Program-and-Develop-an-Innovative-2D-Game-Prototype
 
 ## Game Description
 
@@ -48,11 +50,22 @@ The game can be played directly on itch.io:
 **https://bpgg713.itch.io/sustainable-affairs**
 
 ### Unity Project
-1. Clone or download the repository.
-2. Open the `COS30031_Ass2` folder in **Unity 6 LTS**.
-3. Open:
-   `Assets/Scenes/SceneMainMenu.unity`
-4. Press **Play**.
+1. Download the repository.
+2. Navigate to the "Builds" folder.
+3. Inside the "Build_Final" folder, "run COS30031_Ass2.exe".
+
+## Cloning and Setting up the Repository
+1. In the Terminal, navigate to the destination folder.
+2. Run the command "git clone https://github.com/cos30031-team-Rahul-Thu-1030-G02/Assessment-2-Program-and-Develop-an-Innovative-2D-Game-Prototype.git".
+3. Open Unity Hub.
+4. Select "Add" -> "Add Project from Disk".
+5. Select the project folder.
+
+## Building the Project
+1. Go to "File" -> "Build Profiles".
+2. For a Windows game, select "Windows" from the "Platforms" list. For a web browser game, select "Web".
+3. Select "Build and Run".
+4. In the "Builds" folder, create a new folder and select it.
 
 ## Key Programming Systems
 

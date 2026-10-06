@@ -47,7 +47,7 @@ public class ManagerStats : MonoBehaviour
                 AlterStat("Employed", 30 * posNeg);
                 AlterStat("Income", 2000 * posNeg);
                 AlterStat("Running Cost", 750 * posNeg);
-                AlterStat("Electricity consumption", 750 * posNeg);
+                AlterStat("Electricity Consumption", 750 * posNeg);
                 break;
             case "Cafe":
                 AlterStat("Fed", 60 * posNeg);
